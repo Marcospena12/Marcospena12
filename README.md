@@ -69,6 +69,6 @@ Meu foco é reduzir o trabalho manual e escalar operações através de arquitet
       align="left" 
       alt="GitHub Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcospena12&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-topaz-six-18.vercel.app/api/top-langs/?username=Marcospena12&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
